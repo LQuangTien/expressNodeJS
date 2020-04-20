@@ -4,8 +4,8 @@ const bodyParser = require('body-parser')
 var userRoute = require('./routes/user.route')
 
 const port = 3000 
-
 const app = express()
+app.use(express.static('public'))
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: true}))
 app.set('view engine', 'pug')

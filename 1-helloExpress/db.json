@@ -628,5 +628,13 @@
       "image": "https://loremflickr.com/320/240",
       "description": "pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet"
     }
+  ],
+  "sessions": [
+    {
+      "id": "VwSx65RRd",
+      "cart": {
+        "1c5c34d8-f391-446d-979b-507ecf1e0b02": 2
+      }
+    }
   ]
 }
